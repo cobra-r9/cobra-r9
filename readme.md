@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c" />
     <img src="https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=linux" />
-    <img src="https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=nix" />        
+    <img src="https://img.shields.io/badge/Nix-1e1e1e?style=for-the-badge&logo=nixos" />        
   </p>
 </div>
 
@@ -31,10 +31,10 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
 ### System Setup 
 
 <p>
-  <img src="https://img.shields.io/badge/Arch-Linux-1e1e1e?style=for-the-badge&logo=archlinux" />
+  <img src="https://img.shields.io/badge/Arch-1e1e1e?style=for-the-badge&logo=archlinux" />
   <img src="https://img.shields.io/badge/Bspwm-1e1e1e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Neovim-1e1e1e?style=for-the-badge&logo=neovim" />
-  <img src="https://img.shields.io/badge/Fish-1e1e1e?style=for-the-badge&logo=fish" />
+  <img src="https://img.shields.io/badge/Fish-1e1e1e?style=for-the-badge&logo=fishshell" />
 </p>
 
 <p align="center">
