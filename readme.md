@@ -1,5 +1,5 @@
 
-<h2 style="text-align:center;">About Me</h2>
+<h2 style="align:center;">About Me</h2>
 
 → I am a student, who just completed schooling and waiting for college to open. 
 → Currently self learning `C`, `Lua` and `Nix` programming. 
