@@ -24,7 +24,7 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
 - **Assembly Analysis** via xxd - parallel with C. 
 - **Binary Analysis** - writing my own binary files like WAVs, BMPs, etc - purely in C. 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cobra-r9&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cobra-r9&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=cobra-r9&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra-r9&layout=donut&theme=dark)
 
@@ -41,3 +41,8 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
   If you’re into low level, malware analysis, assembly scripts, linux and open source,
   we’ll probably get along.
 </p>
+
+### Pinned Repos 
+
+[![Init 87](https://github-readme-stats.vercel.app/api/pin/?username=cobra-r9&repo=Init87)](https://github.com/cobra-r9/Init87)
+
