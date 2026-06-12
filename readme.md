@@ -26,7 +26,7 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cobra-r9&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=cobra-r9&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra-r9&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra-r9&layout=donut&theme=dark)]
 
 ### System Setup 
 
