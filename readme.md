@@ -1,4 +1,7 @@
 
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+</div>
 
 → I am a student, who just completed schooling and waiting for college to open. <br>
 → Currently self learning `C`, `Lua` and `Nix` programming. <br>
