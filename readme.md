@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2>CR9</h2>
-  <p>Student · Low Level</p>
+  <p>Student · Low Level . Cybersec</p>
 
   <p>
     <img src="https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c" />
