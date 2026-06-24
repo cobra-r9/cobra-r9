@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>CR9</h2>
+  <h2>CR-9</h2>
   <p>Student · Low Level . Cybersec</p>
 
   <p>
