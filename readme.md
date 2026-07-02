@@ -24,9 +24,10 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
 - **Assembly Analysis** via xxd - parallel with C. 
 - **Binary Analysis** - writing my own binary files like WAVs, BMPs, etc - purely in C. 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cobra-r9&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=cobra-r9&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobra-r9&layout=donut&theme=dark&stats_format=bytes)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cobra-r9&rank_icon=percentile&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=cobra-r9&layout=donut-vertical&langs_count=16&theme=transparent)
+
+
 
 ### System Setup 
 
