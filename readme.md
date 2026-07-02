@@ -10,7 +10,7 @@
   </p>
 </div>
 
-Hey, there! I am a student who just finished schooling and waiting for colleges to open. I am currently into **low level**, **cyber security** and **linux**. I love *investigating* the history of the world about how its digital revolution came into existence and making a world as we know it today. 
+Hey, there! I am a student who just joined college for UG. I am currently into **low level**, **cyber security** and **linux**. I love *investigating* the history of the world about how its digital revolution came into existence and making a world as we know it today. 
 
 **I love nature.** In fact I suck at the fact that we are destroying nature for our own needs not knowing when it would retreat. Global Warming, Climate Changes, Heat Waves and other threats like AI, Cyber Warfare and Pandemics.
 
