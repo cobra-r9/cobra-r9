@@ -43,7 +43,5 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
   we’ll probably get along.
 </p>
 
-### Pinned Repos 
 
-[![Init 87](https://github-readme-stats.vercel.app/api/pin/?username=cobra-r9&repo=Init87&theme=dark)](https://github.com/cobra-r9/Init87)
 
