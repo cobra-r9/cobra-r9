@@ -41,6 +41,11 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
 <p align="center">
   If you’re into low level, malware analysis, assembly scripts, linux and open source,
   we’ll probably get along.
+
+  <b>Verification Hash</b>
+  
+3b3a3a25d729f5201f25c3bf941db9131ea4eb017ccbe1bba4ceb9974415ca0d
+  
 </p>
 
 
