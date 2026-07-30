@@ -24,8 +24,8 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
 - **Assembly Analysis** via xxd - parallel with C. 
 - **Binary Analysis** - writing my own binary files like WAVs, BMPs, etc - purely in C. 
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cobra-r9&rank_icon=percentile&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=cobra-r9&layout=donut-vertical&langs_count=16&theme=transparent&stats_format=bytes)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dream-wa1ker&rank_icon=percentile&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=dream-wa1ker&layout=donut-vertical&langs_count=16&theme=transparent&stats_format=bytes)
 
 
 
@@ -45,8 +45,6 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
   <b>Verification Hash</b>
   
 3b3a3a25d729f5201f25c3bf941db9131ea4eb017ccbe1bba4ceb9974415ca0d
-
-<a rel="me" href="https://mastodon.social/@__dreamwalker__">Mastodon</a>
   
 </p>
 
