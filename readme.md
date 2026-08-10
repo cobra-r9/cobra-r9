@@ -25,7 +25,7 @@ I am a curious student. I have an intrinsic motivation factor which fuels all my
 - **Binary Analysis** - writing my own binary files like WAVs, BMPs, etc - purely in C. 
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dream-wa1ker&rank_icon=percentile&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=transparent)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=dream-wa1ker&layout=donut-vertical&langs_count=16&theme=transparent&stats_format=bytes&hide=qml)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=dream-wa1ker&layout=donut-vertical&langs_count=16&theme=transparent&stats_format=bytes&hide=qml,ruby)
 
 
 
